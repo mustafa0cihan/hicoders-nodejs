@@ -1,0 +1,32 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "Maxwell",
+      "surname": "Wintringham",
+      "age": 21,
+      "maritalStatus": "single"
+    },
+    {
+      "id": 2,
+      "name": "Georgie",
+      "surname": "Greenwood",
+      "age": 51,
+      "maritalStatus": "married"
+    },
+    {
+      "id": 3,
+      "name": "Glen",
+      "surname": "Frost",
+      "age": 19,
+      "maritalStatus": "single"
+    },
+    {
+      "id": 4,
+      "name": "Norris",
+      "surname": "Manning",
+      "age": 42,
+      "maritalStatus": "married"
+    }
+  ]
+}
